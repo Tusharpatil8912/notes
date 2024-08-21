@@ -1,9 +1,9 @@
-Private cloud/subnet communicate through internet with the help of a public cloud/subnet that helps with communication internet gateway and router table that helps for forward traffic and that Steps need to be created.
+## Private cloud/subnet communicate through internet with the help of a public cloud/subnet that helps with communication internet gateway and router table that helps for forward traffic and that Steps need to be created.##
 
 AWS console 
 1. Create a vpc 
-1.	Name – Tushar patil 
-2.	CIDR – 10.0.0.0/24
+1. Name – Tushar patil 
+2. CIDR – 10.0.0.0/243
 First need the create a vpc for the next process 
 
 2. Create a public subnet (public)
